@@ -2,6 +2,6 @@
 #include<conio.h>
 void main()
 {
-printf("\n basic of c ");
+  printf("\n hello");
 getch();
 }
